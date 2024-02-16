@@ -12,7 +12,7 @@
 
 * 🔭 Passionate about gaming, Sci-Fi, and coding. Join me in coding the future!
 
-* 💡Crafting a project blueprint for a personal endeavor aimed at resolving rental issues through the development of a rental management tool catering to both landlords and tenants.
+* 💡Crafting a project blueprint for a personal endeavour aimed at resolving rental issues through the development of a rental management tool catering to both landlords and tenants.
 
 
 <!-- ## 🌐 Socials:
@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ImransCodeHub/ImransCodeHub/output/snake.svg" alt="Snake animation" />
 
 ###
 
