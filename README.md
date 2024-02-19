@@ -34,7 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/ImransCodeHub/ImransCodeHub/main/snake.svg" alt="Snake animation" />
 
-### ✍️&nbsp;Random Dev Quote&nbsp;✍️
+<!-- ### ✍️&nbsp;Random Dev Quote&nbsp;✍️ -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
