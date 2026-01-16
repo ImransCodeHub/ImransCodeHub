@@ -6,13 +6,11 @@
   
 <br/>
 
-* 📖 Pursuing Diplmoa in **Software Development** @ [College of the North Atlantic](https://www.cna.nl.ca/program/software-development-co-op). 
+* 📖 Diplmoa in **Software Development** @ [College of the North Atlantic](https://www.cna.nl.ca/program/software-development-co-op). 
 
-* 💻 Currently working on **Full-Stack** Application and **REST API** projects.
+* 💻 Currently working as a **Full-Stack Developer** At Seafair.
 
-* 🔭 Passionate about gaming, Sci-Fi, and coding. Join me in coding the future!
-
-* 💡Crafting a project blueprint for a personal endeavour aimed at resolving rental issues through the development of a rental management tool catering to both landlords and tenants.
+* 🔭 Passionate about AI, Sci-Fi, and coding. Join me in coding the future!
 
 
 <!-- ## 🌐 Socials:
